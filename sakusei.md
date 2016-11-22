@@ -8,7 +8,7 @@
 </head>
 <body>
 <a href="karibeshota_page1.html">苅部翔太</a>
-<a href="kaihatsu">苅部翔太</a>
+<a href="">苅部翔太</a>
 
 </body>
 </html>
